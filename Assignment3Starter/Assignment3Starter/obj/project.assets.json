@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sbell\\Desktop\\CPSC1012\\Fall-2024-Assignment3-main (1)\\Fall-2024-Assignment3-main\\Assignment3Starter\\Assignment3Starter\\Assignment3Starter.csproj",
+      "projectUniqueName": "C:\\Users\\sbell\\Source\\Repos\\Assignment-3-Starter-Code\\Assignment3Starter\\Assignment3Starter\\Assignment3Starter.csproj",
       "projectName": "Assignment3Starter",
-      "projectPath": "C:\\Users\\sbell\\Desktop\\CPSC1012\\Fall-2024-Assignment3-main (1)\\Fall-2024-Assignment3-main\\Assignment3Starter\\Assignment3Starter\\Assignment3Starter.csproj",
+      "projectPath": "C:\\Users\\sbell\\Source\\Repos\\Assignment-3-Starter-Code\\Assignment3Starter\\Assignment3Starter\\Assignment3Starter.csproj",
       "packagesPath": "C:\\Users\\sbell\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sbell\\Desktop\\CPSC1012\\Fall-2024-Assignment3-main (1)\\Fall-2024-Assignment3-main\\Assignment3Starter\\Assignment3Starter\\obj\\",
+      "outputPath": "C:\\Users\\sbell\\Source\\Repos\\Assignment-3-Starter-Code\\Assignment3Starter\\Assignment3Starter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sbell\\AppData\\Roaming\\NuGet\\NuGet.Config",
